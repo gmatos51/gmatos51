@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [https://flowcv.io/resume/feedback/8L3S58J5lJo4](https://flowcv.io/resume/feedback/8L3S58J5lJo4)
 
-- ⚡ Fun fact: **I really like sports and videogames and also have more than 200 hundred physical games at my shelves.**
+- ⚡ Fun fact: **I really like sports and videogames and also have more than 200 hundred physical games on my shelves.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
