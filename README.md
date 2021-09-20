@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Matos</h1>
 <h3 align="center">A Junior Data Scientist with Mechanical Engineering background.</h3>
 
-- 🔭 My last project was: [From Shelter to Love](https://github.com/anaiscasilva/from_shelter_to_love)
+- 🔭 My last project was: [From Shelter to Love](https://from-shelter-to-love.herokuapp.com/)
 
 - 📫 How to reach me: **goncalormatos333@gmail.com**
 
