@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Matos</h1>
 <h3 align="center">A Junior Data Scientist with Mechanical Engineering background.</h3>
 
-- 🔭 My last project was: [From Shelter to Love](https://from-shelter-to-love.herokuapp.com/)
+- 🔭 My last project was [From Shelter to Love](https://from-shelter-to-love.herokuapp.com/), predicting if an animal will stay less or more than 7 days at a shelter.
 
 - 📫 How to reach me: **goncalormatos333@gmail.com**
 
