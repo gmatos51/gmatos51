@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Matos</h1>
 <h3 align="center">A Junior Data Scientist with Mechanical Engineering background.</h3>
 
+- 🔭 My last project was: [From Shelter to Love](https://github.com/anaiscasilva/from_shelter_to_love)
+
 - 📫 How to reach me: **goncalormatos333@gmail.com**
 
 - 📄 Know about my experiences: [https://flowcv.io/resume/feedback/8L3S58J5lJo4](https://flowcv.io/resume/feedback/8L3S58J5lJo4)
