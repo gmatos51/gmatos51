@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gonçalo Matos</h1>
 <h3 align="center">A Junior Data Scientist with Mechanical Engineering background.</h3>
 
-- 📫 How to reach me **goncalormatos333@gmail.com**
+- 📫 How to reach me: **goncalormatos333@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.io/resume/feedback/8L3S58J5lJo4](https://flowcv.io/resume/feedback/8L3S58J5lJo4)
+- 📄 Know about my experiences: [https://flowcv.io/resume/feedback/8L3S58J5lJo4](https://flowcv.io/resume/feedback/8L3S58J5lJo4)
 
 - ⚡ Fun fact: **I really like sports and videogames and also have more than 200 hundred physical videogames.**
 
